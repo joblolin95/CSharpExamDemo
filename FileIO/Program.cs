@@ -128,11 +128,6 @@ namespace FileIO
                 Console.WriteLine(d2);
             }
 
-                //var readXml = File.ReadAllText(dir.ToString());
-                //Console.WriteLine(readXml);
-
-
-
                 #endregion
 
 
